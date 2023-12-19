@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Stelikas
 - 👀 I’m interested in Full-Stack Web Development
 - 🌱 I’m currently learning ThreeJS
-- 📫 How to reach me https://se-digital.gr
+- 📫 How to reach me https://puremind.gr
